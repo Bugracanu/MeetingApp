@@ -1,4 +1,3 @@
-C:\Users\mblac\Desktop\aspnetcore-dersleri\MeetingApp\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\mblac\Desktop\aspnetcore-dersleri\MeetingApp\bin\Debug\net7.0\appsettings.json
 C:\Users\mblac\Desktop\aspnetcore-dersleri\MeetingApp\bin\Debug\net7.0\MeetingApp.exe
 C:\Users\mblac\Desktop\aspnetcore-dersleri\MeetingApp\bin\Debug\net7.0\MeetingApp.deps.json
@@ -26,3 +25,5 @@ C:\Users\mblac\Desktop\aspnetcore-dersleri\MeetingApp\obj\Debug\net7.0\MeetingAp
 C:\Users\mblac\Desktop\aspnetcore-dersleri\MeetingApp\obj\Debug\net7.0\ref\MeetingApp.dll
 C:\Users\mblac\Desktop\aspnetcore-dersleri\MeetingApp\obj\Debug\net7.0\MeetingApp.RazorAssemblyInfo.cache
 C:\Users\mblac\Desktop\aspnetcore-dersleri\MeetingApp\obj\Debug\net7.0\MeetingApp.RazorAssemblyInfo.cs
+C:\Users\mblac\Desktop\aspnetcore-dersleri\MeetingApp\bin\Debug\net7.0\libman.json
+C:\Users\mblac\Desktop\aspnetcore-dersleri\MeetingApp\bin\Debug\net7.0\MeetingApp.staticwebassets.runtime.json
