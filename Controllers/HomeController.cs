@@ -7,17 +7,18 @@ namespace MeetingApp.AddControllersWithViews
     {
         public IActionResult Index()
         {
-            int saat = DateTime.Now.Hour;
 
+            int saat = DateTime.Now.Hour;
+            int UserCount = Repository.Users.Where(info => info.WillAttend == true).Count();
             ViewData["Selamlama"] = saat > 12 ? "İyi günler" : "Günaydın";
-            ViewData["UserName"] = "Burcu";
+            //ViewData["UserName"] = "Burcu";
 
             var meetingInfo = new MeetingInfo()
             {
                 Id = 1,
                 Location = "istanbul, abc merkezi",
                 Date = new DateTime(2026, 01, 20, 20, 0, 0),
-                NumberOfPeople = 100
+                NumberOfPeople = UserCount
             };
 
             return View(meetingInfo);
